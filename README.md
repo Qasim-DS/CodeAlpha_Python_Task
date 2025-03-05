@@ -37,3 +37,12 @@ Copy
 Listening... 
 You said: "What's the time?"
 The assistant responds: "The current time is 2:30 PM."
+
+Task 3:
+How can you create a Python program that allows the player to play Rock-Paper-Scissors against the computer?
+
+Task 4:
+How can I write a Python program that uses the Binary Search algorithm to find a target value in a sorted list?
+
+Task 5:
+How can you write a Python program that takes name and birthdate as input and outputs the corresponding Zodiac sign and store it in a file using Pandas?
