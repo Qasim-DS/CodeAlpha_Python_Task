@@ -1,15 +1,8 @@
 # CodeAlpha_Task
-**Task 1: Fibonacci Series Generator in Python**
-This is a simple Python script that generates the Fibonacci series up to the number of terms you want. The Fibonacci sequence is a series of numbers where each number is the sum of the two previous ones, starting from 0 and 1.
 
-**How It Works:**
-You input the number of terms you want.
-The script then calculates and displays the Fibonacci sequence up to that number.
+Task 1: Fibonacci Series
 
-**Task 2: Custom Voice Assistant in Python**
-This Python-based voice assistant helps you perform different tasks like telling the time, playing music, searching the web, and even telling jokes. It responds to your voice commands and can greet you by name. It also remembers your preferences, so you don’t need to keep introducing yourself every time you use it.
-
-**Features:**
+Task 2: Custom Voice Assistant in Python with the following features:
 Greet you by your name.
 Tell the current time and date.
 Play music from YouTube.
@@ -17,26 +10,6 @@ Search on Google.
 Tell jokes.
 Open websites.
 Shut down the system when requested.
-
-**How to Use:**
-Download the Python script.
-Install the necessary libraries by running:
-bash
-Copy
-pip install SpeechRecognition pyttsx3 pywhatkit
-Run the script, and the assistant will start listening for commands.
-Ask it questions or give commands like:
-"What’s the time?"
-"Play music."
-"Tell me a joke."
-"Open YouTube."
-
-**Example:**
-arduino
-Copy
-Listening... 
-You said: "What's the time?"
-The assistant responds: "The current time is 2:30 PM."
 
 Task 3:
 How can you create a Python program that allows the player to play Rock-Paper-Scissors against the computer?
@@ -46,3 +19,12 @@ How can I write a Python program that uses the Binary Search algorithm to find a
 
 Task 5:
 How can you write a Python program that takes name and birthdate as input and outputs the corresponding Zodiac sign and store it in a file using Pandas?
+
+Task 6:
+How can I write a Python program that can send emails to one or multiple recipients using an email account?
+
+Task 7:
+What is the process to extract data from the wikipedia website using Beautiful Soup in Python? Specifically, how can we extract the rank, name of the company, Industry, Revenue, Revenue growth, Headquarters for the top US companies by Revenue?
+
+Problem Statement of Task 7:
+The task is to scrape the list of largest companies in US by revenue form wikipedia using Beautiful Soup in Python. The data required to be extracted includes the rank, name of company, Industry, Revenue, Revenue growth, Headquaters.
