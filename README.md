@@ -3,12 +3,12 @@
 Task 1: Fibonacci Series
 
 Task 2: Custom Voice Assistant in Python with the following features:
-Greet you by your name.
-Tell the current time and date.
-Play music from YouTube.
-Search on Google.
-Tell jokes.
-Open websites.
+Greet you by your name,
+Tell the current time and date,
+Play music from YouTube,
+Search on Google,
+Tell jokes,
+Open websites, and
 Shut down the system when requested.
 
 Task 3:
